@@ -28,7 +28,7 @@
 
 ## <a name="tech-stack">Tech Stack</a>
 
-- Next.js
+- NextJS
 - TypeScript
 - Clerk
 - getstream

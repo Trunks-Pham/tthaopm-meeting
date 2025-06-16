@@ -29,9 +29,9 @@ const MobileNav = () => {
               src="/icons/logo.svg"
               width={32}
               height={32}
-              alt="TOOM - TThaoPM Video Calling App | Next.js"
+              alt="TOOM - TThaoPM Video Calling App | Next JS"
             />
-            <p className="text-[26px] font-extrabold text-white">TThaoPM Video Calling App | Next.js</p>
+            <p className="text-[26px] font-extrabold text-white">TThaoPM Video Calling App | Next JS</p>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
             <SheetClose asChild>
